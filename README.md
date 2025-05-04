@@ -30,7 +30,7 @@ In the modern world, energy management is a critical concern for both households
 
 ## Project File
 - household.ipynb: Main Jupyter Notebook containing data processing, modelling, and visualization code.
-- Input file is also included for reference purposes.
+- Input file can be downloaded from [https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption](url). Due to size issue it is not uploaded.
 
 ## How to use
 - Clone this repository or download the files.
